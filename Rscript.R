@@ -1,5 +1,6 @@
 
 #For this analysis project, given a subset of Public Use Micro Data sample for Oregon from2013 that corresponds to households that contain opposite gender married couples (you may assume this is a simple random sample of such households in Oregon).
+# getting dataset to new variable called "mydata"
 mydata <- read.csv(url("http://stat511.cwick.co.nz/homeworks/acs_or.csv"))
 
 # to read the total summary of data set
